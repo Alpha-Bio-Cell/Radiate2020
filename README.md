@@ -1,5 +1,6 @@
 <h1 align="center"> RADIATE </h1>
 <h3 align="center"> Perplex | Ignite | Lumos </h3>
+<br>
 
 Refer this link to visit the [Radiate](https://vaish1601.github.io/SUPPERDOOPERFINAL/) website.
 
@@ -27,6 +28,7 @@ On the basis of their work, certain teams were selected from round 2, and these 
 pitched their respective ideas over video conferencing to the panel on the 
 basis of which they were evaluated and awarded.
 
+<br>
 ## Contributors
 - <a href="https://github.com/prerana-bala">B Prerana </a>
 - <a href="https://github.com/vaish1601">Vaishnavi Manambat Kaloor </a>
