@@ -1,8 +1,9 @@
-<h1 align="center"> RADIATE </h1>
-<h3 align="center"> Perplex | Ignite | Lumos </h3>
+#Radiate
+
 <br>
 
-<p align="center"><a href="https://vaish1601.github.io/SUPPERDOOPERFINAL/" target="_blank"><img src="assets/img/Screenshot 2020-04-29 at 2.48.17 PM.png" title="RADIATE" alt="RADIATE"></a>
+<p align="center"><a href="https://vaish1601.github.io/SUPPERDOOPERFINAL/" target="_blank"><img src="assets/img/Screenshot 2020-04-29 at 2.48.17 PM.png" width="360" height="350" title="RADIATE" alt="RADIATE"></a>
+<h3 align="center"> Perplex | Ignite | Lumos </h3>
 
 <br>
 
