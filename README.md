@@ -29,6 +29,7 @@ pitched their respective ideas over video conferencing to the panel on the
 basis of which they were evaluated and awarded.
 
 <br>
+
 ## Contributors
 - <a href="https://github.com/prerana-bala">B Prerana </a>
 - <a href="https://github.com/vaish1601">Vaishnavi Manambat Kaloor </a>
