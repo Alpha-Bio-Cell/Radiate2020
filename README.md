@@ -4,8 +4,8 @@
 
 <p align="center"><a href="https://vaish1601.github.io/SUPPERDOOPERFINAL/" target="_blank"><img src="assets/img/Screenshot 2020-04-29 at 2.48.17 PM.png" title="RADIATE" alt="RADIATE"></a>
 
-
 <br>
+
 Refer this link to visit the [Radiate](https://vaish1601.github.io/SUPPERDOOPERFINAL/) website.
 
 Radiate was a two-day hackathon organized by Alpha Bio Cell on 9th-10 of May. Our goal was to try to break 
